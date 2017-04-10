@@ -1,0 +1,6 @@
+.htaccess
+.gitignore~
+*.php~
+*.bfproject
+*.template~
+*.*~
